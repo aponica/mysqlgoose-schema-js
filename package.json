@@ -1,0 +1,27 @@
+{
+  "name": "@aponica/mysqlgoose-schema-js",
+  "version": "0.1.0",
+  "description": "Generates MySQL schema data for use by @aponica/mysqlgoose-js.",
+  "homepage": "https://aponica.com/docs/mysqlgoose-schema-js/",
+  "keywords": [
+    "mysqlgoose",
+    "schema"
+  ],
+  "main": "./index.js",
+  "scripts": {
+    "doc": "node ./node_modules/.bin/jsdoc -c jsdoc.conf.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": ".git"
+  },
+  "author": "Opplaud LLC <dev.support@aponica.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "@aponica/jsdoc-plugin-linecomments": "^1.0.11",
+    "jsdoc": "^3.6.5"
+  }
+}
