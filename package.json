@@ -1,6 +1,6 @@
 {
   "name": "@aponica/mysqlgoose-schema-js",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Generates MySQL schema data for use by @aponica/mysqlgoose-js.",
   "homepage": "https://aponica.com/docs/mysqlgoose-schema-js/",
   "funding": "https://www.paypal.com/biz/fund?id=BEHTAS8WARM68",
