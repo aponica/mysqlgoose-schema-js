@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 //=============================================================================
-//  Copyright 2019-2020 Opplaud LLC and other contributors. MIT licensed.
+//  Copyright 2019-2021 Opplaud LLC and other contributors. MIT licensed.
 //=============================================================================
 
 
