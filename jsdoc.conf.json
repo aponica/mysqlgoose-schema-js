@@ -8,6 +8,6 @@
     "plugins/markdown"
     ],
   "source": {
-    "include": [ "./README.md" ]
+    "include": [ "./README.md", "." ]
     }
 }
